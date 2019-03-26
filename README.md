@@ -3,7 +3,7 @@
 
 ## 进度
 
-<<Javascript高级程序设计>> 快速解读系列已发布到第6篇
+「Javascript高级程序设计」快速解读系列已发布到第6篇
 
 
 ## 其他发布
@@ -11,7 +11,7 @@
 * [测试狗的博客](https://thinkerchan.com/categories/Javascript/)
 
 
-## Javascript高级程序设计快速解读系列
+## 「Javascript高级程序设计」快速解读系列
 1. [简介](https://github.com/thinkerchan/blog/issues/1)
 2. [在HTML中使用JS](https://github.com/thinkerchan/blog/issues/2)
 3. [基本概念](https://github.com/thinkerchan/blog/issues/3)
