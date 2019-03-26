@@ -17,7 +17,7 @@
 3. [基本概念](https://github.com/thinkerchan/blog/issues/3)
 4. [变量、作用域和内存问题](https://github.com/thinkerchan/blog/issues/4)
 5. [引用类型](https://github.com/thinkerchan/blog/issues/5)
-6. [面向对象的程序设计](#)
+6. [面向对象的程序设计](https://github.com/thinkerchan/blog/issues/6)
 7. [函数表达式](#)
 8. [BOM](#)
 9. [客户端检测](#)
