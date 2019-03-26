@@ -3,18 +3,41 @@
 
 ## 进度
 
-<<Javascript高级程序设计>> 系列已发布到第6篇
+<<Javascript高级程序设计>> 快速解读系列已发布到第6篇
 
 
 ## 其他发布
 
-* [个人博客](https://thinkerchan.com/categories/Javascript/)
+* [测试狗的博客](https://thinkerchan.com/categories/Javascript/)
 
 
-## <<Javascript高级程序设计>>解读系列
-
-
-
+## Javascript高级程序设计快速解读系列
+1. [简介](https://github.com/thinkerchan/blog/issues/1)
+2. [在HTML中使用JS](https://github.com/thinkerchan/blog/issues/2)
+3. [基本概念](https://github.com/thinkerchan/blog/issues/3)
+4. [变量、作用域和内存问题](https://github.com/thinkerchan/blog/issues/4)
+5. [引用类型](https://github.com/thinkerchan/blog/issues/5)
+6. [面向对象的程序设计](#)
+7. [函数表达式](#)
+8. [BOM](#)
+9. [客户端检测](#)
+10. [DOM](#)
+11. [DOM扩展](#)
+12. [DOM2和DOM3](#)
+13. [事件](#)
+14. [表单脚本](#)
+15. [使用Canvas绘图](#)
+16. [HTML5脚本变成](#)
+17. [错误处理与调试](#)
+18. [JavaScript与XML](#)
+19. [E4X](#)
+20. [Json](#)
+21. [Ajax与Comet](#)
+22. [高级技巧](#)
+23. [离线应用与客户端存储](#)
+24. [最佳实践](#)
+25. [新兴的API](#)
+26. [其他](#)
 
 ## 勘误及提问
 
