@@ -3,7 +3,7 @@
 
 ## 进度
 
-「Javascript高级程序设计」快速解读系列已发布到第6篇
+「Javascript高级程序设计」快速解读系列已发布到第7篇
 
 
 ## 其他发布
@@ -18,7 +18,8 @@
 4. [变量、作用域和内存问题](https://github.com/thinkerchan/blog/issues/4)
 5. [引用类型](https://github.com/thinkerchan/blog/issues/5)
 6. [面向对象的程序设计](https://github.com/thinkerchan/blog/issues/6)
-7. [函数表达式](#)
+7. [函数表达式](https://github.com/thinkerchan/blog/issues/7)
+***
 8. [BOM](#)
 9. [客户端检测](#)
 10. [DOM](#)
