@@ -20,8 +20,8 @@
 6. [面向对象的程序设计](https://github.com/thinkerchan/blog/issues/6)
 7. [函数表达式](https://github.com/thinkerchan/blog/issues/7)
 8. [BOM](https://github.com/thinkerchan/blog/issues/8)
+9. [客户端检测](https://github.com/thinkerchan/blog/issues/9)
 ***
-9. [客户端检测](#)
 10. [DOM](#)
 11. [DOM扩展](#)
 12. [DOM2和DOM3](#)
