@@ -21,8 +21,9 @@
 7. [函数表达式](https://github.com/thinkerchan/blog/issues/7)
 8. [BOM](https://github.com/thinkerchan/blog/issues/8)
 9. [客户端检测](https://github.com/thinkerchan/blog/issues/9)
+10. [DOM](https://github.com/thinkerchan/blog/issues/10)
 ***
-10. [DOM](#)
+
 11. [DOM扩展](#)
 12. [DOM2和DOM3](#)
 13. [事件](#)
