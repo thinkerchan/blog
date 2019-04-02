@@ -3,7 +3,7 @@
 
 ## 进度
 
-「Javascript高级程序设计」快速解读系列已发布到第11篇
+「Javascript高级程序设计」快速解读系列已发布到第13篇
 
 
 ## 其他发布
@@ -23,11 +23,9 @@
 9. [客户端检测](https://github.com/thinkerchan/blog/issues/9)
 10. [DOM](https://github.com/thinkerchan/blog/issues/10)
 11. [DOM扩展](https://github.com/thinkerchan/blog/issues/11)
+12. [DOM2和DOM3](https://github.com/thinkerchan/blog/issues/12)
+13. [事件](https://github.com/thinkerchan/blog/issues/13)
 ***
-
-
-12. [DOM2和DOM3](#)
-13. [事件](#)
 14. [表单脚本](#)
 15. [使用Canvas绘图](#)
 16. [HTML5脚本变成](#)
