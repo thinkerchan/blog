@@ -3,7 +3,7 @@
 
 ## 进度
 
-「Javascript高级程序设计」快速解读系列已发布到第13篇
+「Javascript高级程序设计」快速解读系列并不会按照顺序更新, 对于不常用的内容有时候会略过, 没用更新的文章会标注(暂无内容), 会不定期补充更新.
 
 
 ## 其他发布
@@ -23,22 +23,21 @@
 9. [客户端检测](https://github.com/thinkerchan/blog/issues/9)
 10. [DOM](https://github.com/thinkerchan/blog/issues/10)
 11. [DOM扩展](https://github.com/thinkerchan/blog/issues/11)
-12. [DOM2和DOM3](https://github.com/thinkerchan/blog/issues/12)
+12. [DOM2和DOM3(暂无内容)](#)
 13. [事件](https://github.com/thinkerchan/blog/issues/13)
-***
-14. [表单脚本](#)
-15. [使用Canvas绘图](#)
-16. [HTML5脚本变成](#)
-17. [错误处理与调试](#)
-18. [JavaScript与XML](#)
-19. [E4X](#)
-20. [Json](#)
-21. [Ajax与Comet](#)
-22. [高级技巧](#)
-23. [离线应用与客户端存储](#)
-24. [最佳实践](#)
-25. [新兴的API](#)
-26. [其他](#)
+14. [表单脚本(暂无内容)](#)
+15. [使用Canvas绘图(暂无内容)](#)
+16. [HTML5脚本变成(暂无内容)](#)
+17. [错误处理与调试(暂无内容)](#)
+18. [JavaScript与XML(暂无内容)](#)
+19. [E4X(暂无内容)](#)
+20. [Json](https://github.com/thinkerchan/blog/issues/13)
+21. [Ajax与Comet(暂无内容)](#)
+22. [高级技巧(暂无内容)](#)
+23. [离线应用与客户端存储(暂无内容)](#)
+24. [最佳实践(暂无内容)](#)
+25. [新兴的API(暂无内容)](#)
+26. [其他(暂无内容)](#)
 
 ## 勘误及提问
 
