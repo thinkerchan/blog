@@ -34,7 +34,7 @@
 20. [Json](https://github.com/thinkerchan/blog/issues/20)
 21. [Ajax与Comet](https://github.com/thinkerchan/blog/issues/21)
 22. [高级技巧(暂无内容)](#)
-23. [离线应用与客户端存储(暂无内容)](#)
+23. [离线应用与客户端存储](https://github.com/thinkerchan/blog/issues/23)
 24. [最佳实践(暂无内容)](#)
 25. [新兴的API(暂无内容)](#)
 26. [其他(暂无内容)](#)
