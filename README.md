@@ -36,8 +36,8 @@
 22. [高级技巧](https://github.com/thinkerchan/blog/issues/22)
 23. [离线应用与客户端存储](https://github.com/thinkerchan/blog/issues/23)
 24. [最佳实践](https://github.com/thinkerchan/blog/issues/24)
-25. [新兴的API(暂无内容)](#)
-26. [其他(暂无内容)](#)
+25. [新兴的API](https://github.com/thinkerchan/blog/issues/25)
+
 
 ## 勘误及提问
 
