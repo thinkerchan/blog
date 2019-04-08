@@ -28,7 +28,7 @@
 14. [表单脚本(暂无内容)](#)
 15. [使用Canvas绘图(暂无内容)](#)
 16. [HTML5脚本编程(暂无内容)](#)
-17. [错误处理与调试(暂无内容)](#)
+17. [错误处理与调试](https://github.com/thinkerchan/blog/issues/17)
 18. [JavaScript与XML(略)](https://github.com/thinkerchan/blog/issues/18)
 19. [E4X(略)](https://github.com/thinkerchan/blog/issues/19)
 20. [Json](https://github.com/thinkerchan/blog/issues/20)
