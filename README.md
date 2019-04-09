@@ -38,6 +38,7 @@
 24. [最佳实践](https://github.com/thinkerchan/blog/issues/24)
 25. [新兴的API](https://github.com/thinkerchan/blog/issues/25)
 
+这里也放了书上给到的所有示例, 放在code文件夹中了. 观看这些实例源码也是一个很好的学习方式.
 
 ## 勘误及提问
 
