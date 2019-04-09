@@ -27,7 +27,7 @@
 13. [事件](https://github.com/thinkerchan/blog/issues/13)
 14. [表单脚本(略)](#)
 15. [使用Canvas绘图](https://github.com/thinkerchan/blog/issues/15)
-16. [HTML5脚本编程(暂无内容)](#)
+16. [HTML5脚本编程](https://github.com/thinkerchan/blog/issues/16)
 17. [错误处理与调试](https://github.com/thinkerchan/blog/issues/17)
 18. [JavaScript与XML(略)](https://github.com/thinkerchan/blog/issues/18)
 19. [E4X(略)](https://github.com/thinkerchan/blog/issues/19)
