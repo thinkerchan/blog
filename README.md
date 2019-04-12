@@ -6,9 +6,11 @@
 「Javascript高级程序设计」快速解读系列并不会按照顺序更新, 对于**极不常用**的内容会略过讲解, 没有更新的文章会标注(暂无内容), 会不定期补充更新.
 
 
-## 其他发布
+## 发布的平台
 
 * [测试狗的博客](https://thinkerchan.com/categories/Javascript/)
+* [测试狗的github](https://github.com/thinkerchan/blog)
+* 微信公众号: 测试狗
 
 
 ## 「Javascript高级程序设计」快速解读系列
