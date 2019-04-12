@@ -40,6 +40,9 @@
 
 这里也放了书上给到的所有示例, 放在code文件夹中了. 观看这些实例源码也是一个很好的学习方式.
 
+## 知识点补充系列
+1. [Web离线存储-indexedDB快速教程](https://github.com/thinkerchan/blog/issues/26)
+
 ## 勘误及提问
 
 如果有疑问或者发现错误，可以在相应的 issues 进行提问或勘误。
