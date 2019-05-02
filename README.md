@@ -46,6 +46,7 @@
 1. [Web离线存储-indexedDB快速教程](https://github.com/thinkerchan/blog/issues/26)
 2. [120行代码理解双向绑定原理](https://github.com/thinkerchan/blog/issues/27)
 3. [快速理解JS模块化](https://github.com/thinkerchan/blog/issues/28)
+4. [vuex快速入门(草稿)](https://github.com/thinkerchan/blog/issues/29)
 
 ## 勘误及提问
 
