@@ -10,7 +10,7 @@
 
 * [个人博客](https://thinkerchan.com/categories/Javascript/)
 * [Github](https://github.com/thinkerchan/blog)
-* [语雀](https://www.yuque.com/testdog/jsbook)
+* [语雀(阅读体验最好)](https://www.yuque.com/testdog/jsbook)
 
 
 ## 「Javascript高级程序设计」快速解读系列
