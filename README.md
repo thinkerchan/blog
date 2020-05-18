@@ -8,9 +8,9 @@
 
 ## 发布的平台
 
-* [测试狗的博客](https://thinkerchan.com/categories/Javascript/)
-* [测试狗的github](https://github.com/thinkerchan/blog)
-* 微信公众号: 测试狗
+* [个人博客](https://thinkerchan.com/categories/Javascript/)
+* [Github](https://github.com/thinkerchan/blog)
+* [语雀](https://www.yuque.com/testdog/jsbook)
 
 
 ## 「Javascript高级程序设计」快速解读系列
